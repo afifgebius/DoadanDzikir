@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Doa &amp; Dzikir</string>
+
+    <string name="txt_judul">Kumpulan Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah">Sunnah-Sunnah Qauliyah \nDzikir &amp; Doa Shalat</string>
+    <string name="txt_dzikir_tiap_saat">Dzikir Setiap Saat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+    <string name="txt_artikel_islami">Artikel Islami</string>
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+    <string name="image_poster_detail_artikel">Image Poster Detail Artikel</string>
+
+    <string-array name="img_artikel">A</string-array>
+    <string-array name="tittle_artikel">A</string-array>
+    <string-array name="desc_artikel">A</string-array>
+    <string-array name="dzikir_doa_harian">A</string-array>
+    <string-array name="lafadz_dzikir_doa_harian">A</string-array>
+    <string-array name="terjemah_dzikir_doa_harian">A</string-array>
+
+
+    <string-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/unnamed</item>
+        <item>@drawable/unnameda</item>
+        <item>@drawable/unnamedb</item>
+        <item>@drawable/unnamedc</item>
+        <item>@drawable/unnamedd</item>
+        <item>@drawable/unnamede</item>
+        <item>@drawable/unnamedf</item>
+    </string-array>
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Mengapa Tidak Semakin Mendekat Kepada Allah?</item>
+        <item>Pentingnya Bahasa Arab</item>
+        <item>FENOMENA FITNAH HARTA</item>
+        <item>Islam Dan Problematika Agama &amp; Aqidah</item>
+        <item>Tafsir Surat Al-Bayyinah</item>
+        <item>Apakah Jin Mengetahui Ilmu Ghaib?</item>
+        <item>Berhukum Dengan Selain Hukum Allah</item>
+    </string-array>
+
+
+    <string-array name="arr_desc_artikel">
+        <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
+        <item>Ketika bencana terjadi secara beruntun, mengapa banyak manusia semakin merendahkan diri dan semakin mengagungkan para pembesar jin yang diyakini sebagai penguasa laut, gunung-gunung, hutan-hutan atau tempat-tempat tertentu lainnya? Mengapa Allah sebagai Pencipta dan Penguasa alam semesta sesungguhnya, sekaligus sebagai pembuat bencana, justeru ditinggalkan, dilupakan dan diabaikan? Adakah pembesar-pembesar jin itu –meskipun mereka berkoalisi- mampu mengatasi bergolaknya gelombang laut dan mampu mengendalikan lahar-lahar dan awan panas jika Allah, Penguasa alam semes ta ini, menghendaki terjadinya?
+
+           أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ ۗ أَإِلَٰهٌ مَّعَ اللَّهِ ۚ قَلِيلًا مَّا تَذَكَّرُونَ
+
+           Atau siapakah yang dapat mengabulkan (do’a) orang yang dalam kesulitan apabila ia berdo’a kepadanya, dan yang dapat menghilangkan kesusahan dan yang menjadikan kamu (manusia) sebagai khalifah di bumi? Apakah di samping Allah ada sesembahan yang benar selainNya? Amat sedikitlah kamu mengingati(Nya). [an-Naml/27 : 62].</item>
+        <item>Manusia menjadi buta agama, bodoh dan selalu berselisih paham lantaran mereka meninggalkan bahasa Arab, dan lebih mengutamakan konsep Aristoteles. (Imam Syafi’i )2 Itulah ungkapan Imam Syafi’i buat umat, agar kita jangan memarginalkan bahasa kebanggaan umat Islam. Seandainya sang imam menyaksikan sikap umat sekarang ini terhadap bahasa Arab, tentulah keprihatian beliau akan semakin memuncak. Bahasa Arab berbeda dengan bahasa-bahasa lain yang menjadi alat komunikasi di kalangan umat manusia. Ragam keunggulan bahasa Arab begitu banyak. Idealnya, umat Islam mencurahkan perhatiannya terhadap bahasa ini. Baik dengan mempelajarinya untuk diri mereka sendiri ataupun memfasilitasi dan mengarahkan anak-anak untuk tujuan tersebut. Di masa lampau, bahasa Arab sangat mendapatkan tempat di hati kaum muslimin. Ulama dan bahkan para khalifah tidak melihatnya dengan sebelah mata. Fashahah (kebenaran dalam berbahasa) dan ketajaman lidah dalam berbahasa menjadi salah satu indikasi keberhasilan orang tua dalam mendidik anaknya saat masa kecil. Redupnya perhatian terhadap bahasa Arab nampak ketika penyebaran Islam sudah memasuki negara-negara ‘ajam (non Arab). Antar ras saling berinteraksi dan bersatu di bawah payung Islam. Kesalahan ejaan semakin dominan dalam perbincangan. Apalagi bila dicermati realita umat Islam sekarang pada umumnya, banyak yang menganaktirikan bahasa Arab. Yang cukup memprihatinkan ternyata, para orang tua kurang mendorong anak-anaknya agar dapat menekuni bahasa Arab ini.</item>
+        <item>Harta merupakan salah satu fitnah dunia yang paling menonjol. Demi harta, seseorang rela berbuat apa saja asal bisa meraihnya. Tujuan hidupnya, seolah hanya untuk mencapai kesenangan duniawi belaka. Allah telah mensinyalir orang-orang yang seperti ini dalam surat Hud ayat 15-16 :
+
+﴿مَنْ كَانَ يُرِيدُ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا نُوَفِّ إِلَيْهِمْ أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لَا يُبْخَسُونَ – أُولَئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ  وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ﴾
+
+           Barangsiapa menghendaki kehidupan dunia dan perhiasannya, niscaya kami berikan kepada mereka balasan pekerjaan mereka di dunia dengan sempurna dan mereka di dunia itu tidak akan dirugikan. Itulah orang-orang yang tidak memperoleh di akhirat, kecuali neraka dan lenyaplah di akhirat itu apa yang telah mereka usahakan di dunia dan sia-sialah apa yang telah mereka kerjakan. (QS Hud : 15, 16). Dalam masalah ini, Syaikh Al Utsaimin telah membedakan antara riya’ dengan keinginan mendapat dunia. Riya’, ialah seseorang yang beribadah karena ingin dipuji agar dikatakan sebagai ‘abid (ahli ibadah), dan ia tidak menginginkan harta. Adapun keinginan terhadap dunia yang dimaksudkan dalam ayat ini, seseorang beribadah bukan karena ingin dipuji atau dilihat, bahkan sebenarnya ia ikhlas dalam beribadah kepada Allah. Akan tetapi ia ingin mendapatkan sesuatu dari dunia, seperti harta, pangkat, kesehatan; baik pribadi, keluarga maupun anak, dan lain-lain. Jadi dengan amal ibadahnya iainginkan manfaat dunia dan tidak menginginkan pahala akhirat. Beliau memberikan contoh-contoh bagaimana seseorang menginginkan dunia dengan amal ibadahnya. Misalnya: menjadi muadzin dengan niat mencari uang. Berangkat haji dengan tujuan mencari kemulian dunia. Belajar agama di perguruan tinggi dengan niat mencari ijasah agar martabatnya naik. Melakukan beberapa jenis peribadahan dengan maksud menyembuhkan penyakit, atau supaya disenangi orang lain atau supaya tidakmendapat gangguan, atau maksud-maksud lain.1) Karena itu, kita harus berhati-hati, jangan sampai terjatuh ke dalam syirik niat sebagaimana yang disebutkan dalam surat Hud ayat 15-16 di atas. Sebuah ironi, bila seorang da’i, ketika berbicara tentang hikmah dan manfaat ibadah, justeru menitikberatkan pada faidah-faidah duniawi. Misalnya, shalat adalah olah raga yang berfaidah menguatkan otot-otot, puasa berfaidah menghilangkan (mengurangi) lemak dan mengatur makan. Seharusnya kita tidak menjadikan faidahfaidah duniawi sebagai masalah pokok dalam beribadah, karena Allah سبحانه وتعالى tidak pernah menyebutkan yang demikian itu di dalam Al Qur’an. Akan tetapi Allah menyebutkan bahwa shalat akan mencegah perbuatan keji dan mungkar. Begitu pula menyebutkan puasa, untuk meningkatkan ketakwaan. Faidah diniyah dalam ibadah inilah yang menjadi masalah pokok, adapun faidah duniawi merupakan masalah kedua. Sehingga apabila seorang da’i berbicara di depan khalayak umum, maka yang lebih penting ialah menyampaikan atau menyebutkan faidah-faidah diniyahnya saja. Apabila memang diperlukan, barulah disampaikan faidah diniyah dan duniawi. Setiap pembicaraan ada tempatnya. (Al Qaulul Mufid, II/245). Dalam Fathul Majid, disebutkan bahwa Syaikh Muhammad bin Abdul Wahhab telah ditanya tentang ayat 15 dan 16 surat Hud di atas, lalu beliau menjawab, yang intinya, telah disebutkan oleh para ulama salaf, bahwa di dalam ayat tersebut mengandung penjelasan beragamnya perilaku amal manusia pada zaman ini dan mereka tidak mengerti maksudnya. Pertama, amal shalih yang dilakukan oleh banyak orang untuk mencari ridha Allah, seperti shadaqah, shalat, menyambung tali persaudaraan, berbuat baik kepada manusia, meninggalkan kezhaliman, dan amal-amal lain yang dilakukan atau ditinggalkan manusia karena ikhlas kepada Allah. Akan tetapi, orang yang melakukannya tersebut tidak menginginkan pahalanya di akhirat. Dia hanya ingin agar Allah menjaga hartanya dan mengembangkannya, menjaga istri dan anakanaknya, atau supaya Allah melanggengkan karunia yang diberikan kepadanya. Tidak terpikir olehnya untuk mencari surga dan lari dari neraka. Orang semacam ini diberi ganjaran amalnya di dunia, sedangkan di akhirat tidak ada bagian untuknya. Jenis perbuatan yang pertama ini disebutkan oleh Ibnu Abbas. Kedua, ini lebih fatal dan lebih dikhawatirkan dari yang pertama. Inilah ayat yang disebutkan Mujahid bahwasanya turun berkaitan dengan permasalahan kedua ini. Yaitu seseorang beramal shalih namun niatnya untuk riya’ kepada manusia, tidak untuk mencari pahala akhirat.Ketiga, seseorang beramal shalih dengan tujuan harta, seperti berhaji karena ada harta yang akan ia raih, bukan karena Allah, berhijrah karena dunia yang akan diperolehnya, atau perempuan yang akan dinikahinya, atau berjihad untuk mendapatkan ghanimah. Begitu juga, seseorang yang belajar karena untuk kepentingan sekolah keluarganya, untuk pekerjaan mereka atau kepemimpinan mereka, atau belajar Al Qur’an dan rajin melakukan shalat karena untuk mencari pekerjaan di masjid seperti yang banyak terjadi sekarang.</item>
+        <item>Islam &amp; Problematika Problem agama dan akidah merupakan problem terbesar dan sangat krusial. Di atas agama dan akidah inilah, semua urusan terbangun. Semua urusan tersebut, baik dan buruknya sangat bergantung pada baik dan buruknya agama, artinya, jika agama itu baik, maka semua akan baik, begitu juga sebaliknya. Namun faktanya, dalam masalah agama dan akidah (keyakinan), manusia telah berpecah belah dan menempuh jalan yang bermacam-macam. Semua jalan yang mereka tempuh merupakan jalan yang salah, menyimpang dari kebenaran serta tidak memberikan manfaat apapun, kecuali jalan orang yang mendapatkan hidayah kepada agama Islam yang hakiki. Mereka mendapatkan keistiqamahan, kebaikan, dan kenyamanan dari segala sisi. Sebagian manusia, ada yang dipermainkan oleh syaitan sehingga mereka menyembah selain Allâh سبحانه وتعالى , menyembah bebatuan, pepohonan, patung, para nabi dan malaikat, menyembah orang shalih atau yang tidak shalih, padahal mereka meyakini hanya Allâh سبحانه وتعالى Rabb mereka, Pemilik dan Pencipta mereka tanpa ada sekutu bagi-Nya. Dengan demikian, berarti mereka mengakui tauhid rubûbiyah, tetapi menyimpang dari tauhid ulûhiyah (mengesakan Allâh سبحانه وتعالى dalam hal ibadah). Mereka ini termasuk orang-orang musyrik meski dalam warna, aliran dan kelompok yang berbeda. Semua kitab samawi ( kitab yang Allâh سبحانه وتعالى turunkan kepada para Nabi ) telah mengabarkan kebinasaan dan kesengsaraan mereka. Semua nabi dan rasul telah bersepakat dalam menyerukan tauhid dan melarang kesyirikan. Mereka juga bersepakat bahwa orang yang menyekutukan Allâh سبحانه وتعالى diharamkan bagi mereka surga dan tempat mereka yang tepat adalah neraka. Akal yang sehat serta fi trah yang lurus juga mengisyaratkan buruknya perbuatan syirik, perbuatan menuhankan dan menyembah para makhluk. Jadi, kesyirikan itu batil secara syariat dan rusak menurut akal yang sehat.</item>
+        <item>﴿لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّى تَأْتِيَهُمُ الْبَيِّنَةُ ﴾
+           Orang-orang kafir yakni ahli kitab dan orang-orang musyrik (mengatakan bahwa mereka ) tidak akan meninggalkan (agamanya) sebelum datang bukti yang nyata. (Qs al-Bayyinah/ 98:1-3)\nPENJELASAN AYAT\nAyat di atas menjelaskan bahwa orang-orang kafir baik Yahudi maupun Nasrani dan juga penyembah berhala, (mengatakan bahwa mereka) tidak akan meninggalkan agama mereka sampai datang kepada mereka bukti yang nyata yaitu datangnya Muhammad ﷺ . Kemudian ketika beliau datang dengan membawa al-Qur’an kepada mereka, sebagian mereka ada yang beriman dan meninggalkan agamanya dan ada sebagian lain yang mengingkarinya.</item>
+        <item>Jin tidaklah mengetahui ilmu gaib, (demikian pula) yang ada di langit dan bumi tidaklah mengetahui ilmu gaib, kecuali Allah Ta’ala. Bacalah firman Allah Ta’ala,
+
+فَلَمَّا قَضَيْنَا عَلَيْهِ الْمَوْتَ مَا دَلَّهُمْ عَلَى مَوْتِهِ إِلَّا دَابَّةُ الْأَرْضِ تَأْكُلُ مِنسَأَتَهُ فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَن لَّوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا لَبِثُوا فِي الْعَذَابِ الْمُهِينِ
+
+“Maka tatkala Kami telah menetapkan kematian Sulaiman, tidak ada yang menunjukkan kepada mereka kematiannya itu kecuali rayap yang memakan tongkatnya. Maka tatkala dia telah tersungkur, tahulah jin itu bahwa kalau sekiranya mereka mengetahui yang gaib, tentulah mereka tidak akan tetap dalam siksa yang menghinakan” (QS. Saba’: 14).
+
+Siapa saja yang mengklaim mengetahui ilmu gaib, dia kafir. Dan siapa saja membenarkan orang yang mengklaim mengetahui ilmu gaib, dia pun kafir. Hal ini berdasarkan firman Allah Ta’ala,</item>
+        <item>Allah Ta’ala berfirman,
+
+وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ
+
+“Barang siapa yang tidak memutuskan perkara berdasarkan apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang kafir” (QS. Al-Ma’idah: 44).
+
+Allah Ta’ala berfirman,
+
+وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+
+“Barang siapa tidak memutuskan perkara berdasarkan apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang zalim” (QS. Al-Ma’idah: 45).
+
+Allah Ta’ala berfirman,
+
+وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+
+“Barang siapa tidak memutuskan perkara berdasarkan apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang fasik” (QS. Al-Ma’idah: 47).</item>
+    </string-array>
+
+
+    <string-array name="arr_dzikir_doa_harian">
+        <item>Sebelum tidur</item>
+        <item>Ketika mimpi buruk</item>
+        <item>Bangun tidur</item>
+        <item>Masuk WC/kamar mandi</item>
+        <item>Keluar WC/kamar mandi</item>
+        <item>Sebelum wudhu</item>
+        <item>Setelah wudhu</item>
+        <item>Mengenakan pakaian</item>
+        <item>Melepas pakaian</item>
+        <item>Keluar rumah</item>
+        <item>Masuk rumah</item>
+        <item>Pergi ke Masjid</item>
+        <item>Masuk ke Masjid</item>
+        <item>Keluar dari Masjid</item>
+        <item>Ketika mendengar Adzan</item>
+        <item>Setelah adzan</item>
+        <item>Bersin</item>
+        <item>Kepada orang yang berbuat baik kepadamu</item>
+        <item>Ketika marah</item>
+    </string-array>
+
+    <string-array name="arr_lafaz_dzikir_doa_harian">
+        <item>Mengumpulkan dua telapak tangan, lalu ditiup dan dibacakan:\n\nSurat Al-Ikhlas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾ \n\nSurat Al-Falaq:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَۙ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ﴿٣﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾ \n\nAn-Naas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ﴿١﴾ مَلِكِ النَّاسِۙ ﴿٢﴾ اِلٰهِ النَّاسِۙ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ﴿٤﴾ الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾\nAyat Kursi:\nٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ\nKetika sudah berbaring baca doa:\nاَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ\n\nبِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ</item>
+        <item>Membaca isti\'adzah:\nأَعُوذُ بِاَللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِْ\nlalu meludah tipis (meniup disertai sedikit liur) ke sebelah kirinya sebanyak tiga kali.\nDemikian juga merubah posisi tidur. Bahkan dianjurkan untuk bangun dan shalat.</item>
+        <item>الحَمْدُ ِللهِ الَّذِي أَحْيَاناَ بَعْدَ مَا أَمَاتَنَا وَ إِلَيْهِ النُّشُوْرُ</item>
+        <item>اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ</item>
+        <item>غُفْرَانَكَ</item>
+        <item>بسم الله</item>
+        <item>Pertama:\nأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ\n\nKedua:\nسُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ</item>
+        <item>اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ</item>
+        <item>بسم الله</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</item>
+        <item>Pertama:\nبسم الله\n\Kedua:\nالسلام عليكم</item>
+        <item>اللّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْراً، وَفِي لِسَانِي نُوْراً، وَاجْعَلْ وَفِي سَمْعِي نُوْراً، وَاجْعَلْ فِي بَصَرِي نُوْراً، وَاجْعَلْ مِنْ خَلْفِي نُوْراً، وَمِنْ أَمَامِي نُوْراً، وَاجْعَلْ مِنْ فَوْقِي نُوْراً، وَمِنْ تَحْتِي نُوْراً، اللّهُمَّ أَعْطِنِي نُوْراً</item>
+        <item>Pertama:\nاللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKedua:\nوَالصَّلَاةُ وَالسَّلاَمُ عَلَى رَسُولِ اللهِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKetiga:\nأَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+        <item>اللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ</item>
+        <item>Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat:\nHayya \'alash shalaah\n\ndan\n\nHayya \'alal falaah. Maka mengucapkan:\nلاحول ولا قوة الا بالله</item>
+        <item>اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ</item>
+        <item>Yang bersin mengucapkan:\nالحمد لله\nYang mendengar hamdalah mengucapkan:\nيَرْحَمُكَ اللهُ\nBila teman atau saudaranya mengucapkan (yarhamukallah), maka yang bersin membalas dengan:\nيَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</item>
+        <item>جزاك الله خيراً</item>
+        <item>أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+    </string-array>
+
+    <string-array name="arr_terjemah_dzikir_doa_harian">
+        <item>Surat Al-Ikhlas:\n\"Katakanlah: Dialah Allah Yang Maha Esa. Allah adalah ilah yang bergantung kepada-Nya segala urusan. Dia tidak beranak dan tiada pula diperanakkan. Dan tidak ada seorang pun yang setara dengan Dia.\"\n\nSurat Al-Falaq:\n\"Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. Dari kejahatan makhluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.\"\n\nAn-Naas:\n\"Katakanlah: Aku berlindung kepada Rabb manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada manusia. Dari jin dan manusia.\"\n\nAyat Kursi:\n\"Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa\'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang dia hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah melliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar.\"\n\nKetika sudah berbaring baca doa:\n\"Ya Allah, aku serahkan jiwaku kepada-mu, aku hadapkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu, aku sandarkan punggungku kepada-Mu, karena mengharapkan (pahala-Mu) dan takut (adzab-Mu). Tiada tempat bersandar dan menyelamatkan diri dari (hukuman)-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus.\"\n\n\"Dengan nama Engkau, wahai Rabbku, aku meletakkan lambungku. Dan dengan nama-Mu pula aku bangun dari padanya. Apabila Engkau menahan rohku maka berilah rahmat padanya. Tapi apabila Engkau melepaskannya maka peliharalah, sebagaimana Engkau memelihara hamba-hambaMu yang shalih.\"</item>
+        <item>\"Aku memohon perlindungan kepada Allah dari setan yang terkutuk.\"</item>
+        <item>\"Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dikumpulkan.\"</item>
+        <item>\"Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keburukan dan jin.\"</item>
+        <item>\"Aku minta ampun kepadaMu.\"</item>
+        <item>\"Dengan nama Allah (aku berwudhu).\"</item>
+        <item>Pertama:\n\"Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.\"\n\nKedua:\n\"Maha Suci Engkau ya Allah, aku memujiMu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan betaubat kepada-Mu.\"</item>
+        <item>\"Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.\"</item>
+        <item>\"Dengan nama Allah (aku meletakkan baju).\"</item>
+        <item>\"Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.\"</item>
+        <item>Pertama:\n\"Dengan nama Allah.\"\n\n\Kedua:\n\"Semoga keselamatan atas kalian.\"</item>
+        <item>\"Ya Allah, jadikanlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.\"</item>
+        <item>Pertama:\n\"Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKedua:\n\"Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKetiga:\n\"Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkuturk.\" </item>
+        <item>\"Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.\"</item>
+        <item>\"Tidak ada daya dan upaya kecuali dengan pertolongan Allah\"</item>
+        <item>\"Ya Allah, Rabb Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkan beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan.\"</item>
+        <item>(Alhamdulillah) artinya:\n\"Segala puji bagi Allah.\"\n\n(Yarhamukallah) artinya:\n\"Semoga Allah memberikan rahmat kepadamu.\"\n\n\"(Yahdiikumullaahu wa yushlihu baalakum) artinya:\n\"Semoga Allah memberi petunjuk kepadamu dan memperbaiki keadaanmu.\"</item>
+        <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
+        <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
+    </string-array>
+</resources>
